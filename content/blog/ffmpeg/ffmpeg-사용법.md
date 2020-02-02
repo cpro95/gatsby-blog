@@ -5,7 +5,7 @@ category: ffmpeg
 draft: false
 ---
 
-![ffmpeg image](./images/ffmpeg_image.jpeg)
+![ffmpeg](./ffmpeg_image.jpeg)
 
 ## 동영상 자막 입히기
 
