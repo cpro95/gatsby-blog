@@ -54,9 +54,6 @@ module.exports = {
               inlineCodeMarker: '%',
             },
           },
-          {
-            resolve: 'gatsby-plugin-no-sourcemaps',
-          },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-autolink-headers`,
@@ -87,6 +84,9 @@ module.exports = {
       options: {
         pathToConfigModule: `src/utils/typography`,
       },
+    },
+    {
+      resolve: 'gatsby-plugin-no-sourcemaps',
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
