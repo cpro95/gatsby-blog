@@ -19,3 +19,12 @@ draft: false
 ![](./ibmplexmono.png)
 
 다운로드는 [Github](https://github.com/IBM/plex/releases)에서 할 수 있습니다.
+
+### Fira Code
+
+Fira Code 코드는 아래 그림에서 볼수 있듯이, =>, ===, !== 등을 아주 멋지게 표현해 주고 있습니다.\
+간혹 해외 유투브 보면서 ===, => 등 멋지게 표현되서 신기해 했었는데 Fira Code 폰트를 사용했더라구요.
+
+공식 [Github 사이트](https://github.com/tonsky/FiraCode) 및 [다운로드 링크](https://github.com/tonsky/FiraCode/releases) 걸어드립니다.
+
+![](./fira_code.png)
